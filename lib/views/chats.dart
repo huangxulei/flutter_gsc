@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-class ChatsView extends StatelessWidget {
+class Chats extends StatelessWidget {
   var inputValue = ''.obs;
   Color textColor = Color.fromARGB(255, 101, 99, 99);
   Color bgDarkColor = Color.fromARGB(255, 218, 216, 216);
